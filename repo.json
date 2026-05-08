@@ -1,5 +1,5 @@
 {
-  "name": "Rustedimac Extensions",
-  "baseUrl": "https://raw.githubusercontent.com/rustedimac/repo-public/main",
+  "name": "Rustedimac Repo",
+  "baseUrl": "https://rustedimac.github.io/repo-public",
   "appMinVer": "0.16.0"
 }
